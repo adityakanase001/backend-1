@@ -1,0 +1,7 @@
+{
+    "port": 9898,
+    "host": "172.18.4.238",
+    "database": "empdb",
+    "user": "root",
+    "password": "root"
+}
